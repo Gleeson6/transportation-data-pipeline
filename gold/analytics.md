@@ -44,3 +44,6 @@ The Gold layer represents the final, business-ready data used for analytics and 
 ## 📈 Output
 - Used in dashboards (Power BI / Tableau)
 - Supports business insights and reporting
+
+- ## 📄 SQL Queries
+City-level analytics queries are available in this folder, covering multiple cities and business use cases.
